@@ -58,7 +58,7 @@ For more information about Minsk imetro map, click L<here|https://en.wikipedia.o
 
  Constructor.
 
-=item C<get_all_routes($from, $to)>
+=item C<get_all_routes($from, $to)> [EXPERIMENTAL]
 
  Get all routes from station to station.
  Returns reference to array with Map::Tube::Route objects.
