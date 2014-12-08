@@ -19,6 +19,7 @@ META.yml
 Minsk.pm
 README
 share/minsk-map.xml
+SIGNATURE
 t/Map-Tube-Minsk/00-use.t
 t/Map-Tube-Minsk/01-version.t
 t/Map-Tube-Minsk/02-pod_coverage.t
