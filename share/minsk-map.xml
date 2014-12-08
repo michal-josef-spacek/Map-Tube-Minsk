@@ -1,4 +1,4 @@
-<tube>
+<tube name="Мінскі метрапалітэн">
   <!-- https://be.wikipedia.org/wiki/Мінскі_метрапалітэн -->
   <stations>
     <station id="КАСТРЫЧНІЦКАЯ" name="Кастрычніцкая" line="Маскоўская_лінія" link="A08,A10,B07,B09"/>

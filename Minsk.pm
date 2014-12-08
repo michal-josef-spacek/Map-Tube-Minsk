@@ -41,6 +41,7 @@ Map::Tube::Minsk - Interface to the Minsk metro.
  my $station = $obj->get_node_by_id($station_id);
  my $station = $obj->get_node_by_name($station_name);
  my $route = $obj->get_shortest_route($from, $to);
+ my $metro_name = $obj->name;
  my $xml_file = $obj->xml;
 
 =head1 DESCRIPTION
@@ -77,6 +78,11 @@ For more information about Minsk imetro map, click L<here|https://en.wikipedia.o
 
  Get shortest route between $from and $to node names. Node names in $from and $to are case insensitive.
  Returns Map::Tube::Route object.
+
+=item C<name()>
+
+ Get metro name.
+ Returns string with metro name.
 
 =item C<xml()>
 

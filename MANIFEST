@@ -24,4 +24,5 @@ t/Map-Tube-Minsk/01-version.t
 t/Map-Tube-Minsk/02-pod_coverage.t
 t/Map-Tube-Minsk/03-pod.t
 t/Map-Tube-Minsk/04-get_shortest_route.t
-t/Map-Tube-Minsk/05-xml.t
+t/Map-Tube-Minsk/05-name.t
+t/Map-Tube-Minsk/06-xml.t
