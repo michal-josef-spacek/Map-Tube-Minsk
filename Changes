@@ -1,4 +1,5 @@
 0.02
+ - Add Map::Tube::Kiew to SEE ALSO section in doc.
  - Fix REPOSITORY section in doc.
  - Fix minimal Map::Tube dependency for name() method.
  - Fix minimal Perl version.
