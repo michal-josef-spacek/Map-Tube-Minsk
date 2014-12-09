@@ -1,4 +1,4 @@
-0.02
+0.02 2014-12-09T07:46:54+01:00
  - Add Map::Tube::Kiew to SEE ALSO section in doc.
  - Fix REPOSITORY section in doc.
  - Fix minimal Map::Tube dependency for name() method.
