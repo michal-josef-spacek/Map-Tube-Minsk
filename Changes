@@ -1,4 +1,5 @@
 0.02
+ - Fix REPOSITORY section in doc.
  - Fix minimal Map::Tube dependency for name() method.
  - Fix minimal Perl version.
 
