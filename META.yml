@@ -1,5 +1,5 @@
 ---
-abstract: 'Interface to the Minsk metro.'
+abstract: 'Interface to the Minsk Metro Map.'
 author:
   - 'Michal Spacek <skim@cpan.org>'
 build_requires:

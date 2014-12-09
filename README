@@ -1,5 +1,5 @@
 NAME
-    Map::Tube::Minsk - Interface to the Minsk metro.
+    Map::Tube::Minsk - Interface to the Minsk Metro Map.
 
 SYNOPSIS
      use Map::Tube::Minsk;
