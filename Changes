@@ -1,6 +1,7 @@
 0.03
  - Remove executable bit from minsk-map.xml file.
  - Update abstract to same name as other my Map::Tube modules.
+ - Update copyright years to 2015.
 
 0.02 2014-12-09T07:46:54+01:00
  - Add Map::Tube::Kiew to SEE ALSO section in doc.
