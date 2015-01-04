@@ -38,6 +38,7 @@ Map::Tube::Minsk - Interface to the Minsk Metro Map.
  use Map::Tube::Minsk;
  my $obj = Map::Tube::Minsk->new;
  my $routes_ar = $obj->get_all_routes($from, $to);
+ my $lines_ar = $obj->get_lines;
  my $station = $obj->get_node_by_id($station_id);
  my $station = $obj->get_node_by_name($station_name);
  my $route = $obj->get_shortest_route($from, $to);
@@ -63,6 +64,11 @@ For more information about Minsk imetro map, click L<here|https://en.wikipedia.o
 
  Get all routes from station to station.
  Returns reference to array with Map::Tube::Route objects.
+
+=item C<get_lines()>
+
+ Get lines in metro map.
+ Returns reference to array with Map::Tube::Line objects.
 
 =item C<get_node_by_id($station_id)>
 

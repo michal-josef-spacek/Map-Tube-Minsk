@@ -1,4 +1,5 @@
 0.03
+ - Add get_lines() method to doc.
  - Remove executable bit from minsk-map.xml file.
  - Update abstract to same name as other my Map::Tube modules.
  - Update copyright years to 2015.
