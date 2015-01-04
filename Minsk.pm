@@ -146,6 +146,44 @@ For more information about Minsk imetro map, click L<here|https://en.wikipedia.o
  # Output like:
  # XML file: .*/minsk-map.xml
 
+=head1 EXAMPLE3
+
+ # Pragmas.
+ use strict;
+ use warnings;
+
+ # Modules.
+ use Map::Tube::GraphViz;
+ use Map::Tube::GraphViz::Utils qw(node_color_without_label);
+ use Map::Tube::Minsk;
+
+ # Object.
+ my $obj = Map::Tube::Minsk->new;
+
+ # GraphViz object.
+ my $g = Map::Tube::GraphViz->new(
+         'callback_node' => \&node_color_without_label,
+         'driver' => 'neato',
+         'tube' => $obj,
+ );
+
+ # Get graph to file.
+ $g->graph('Minsk.png');
+
+ # Print file.
+ system "ls -l Minsk.png";
+
+ # Output like:
+ # -rw-r--r-- 1 skim skim 85988 Jan  4 11:32 Minsk.png
+
+=begin html
+
+<a href="https://raw.githubusercontent.com/tupinek/Map-Tube-Minsk/master/images/ex3.png">
+  <img src="https://raw.githubusercontent.com/tupinek/Map-Tube-Minsk/master/images/ex3.png" alt="Pražské metro" width="300px" height="300px" />
+</a>
+
+=end html
+
 =head1 DEPENDENCIES
 
 L<File::Share>,
