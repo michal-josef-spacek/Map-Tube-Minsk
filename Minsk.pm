@@ -156,17 +156,33 @@ L<namespace::clean>.
 =head1 SEE ALSO
 
 L<Map::Tube>,
+L<Map::Tube::GraphViz>,
+L<Map::Tube::Text::Table>,
+L<Task::Map::Tube>.
+
 L<Map::Tube::Barcelona>,
 L<Map::Tube::Berlin>,
+L<Map::Tube::Bucharest>,
+L<Map::Tube::Budapest>,
 L<Map::Tube::Delhi>,
-L<Map::Tube::Kiew>,
+L<Map::Tube::Dnipropetrovsk>,
+L<Map::Tube::Kazan>,
+L<Map::Tube::Kharkiv>,
+L<Map::Tube::Kiev>,
 L<Map::Tube::London>,
 L<Map::Tube::Moscow>,
 L<Map::Tube::NYC>,
+L<Map::Tube::Nanjing>,
+L<Map::Tube::Novosibirsk>,
 L<Map::Tube::Prague>,
+L<Map::Tube::SaintPetersburg>,
+L<Map::Tube::Samara>,
 L<Map::Tube::Sofia>,
+L<Map::Tube::Tbilisi>,
 L<Map::Tube::Tokyo>,
-L<Map::Tube::Warsaw>.
+L<Map::Tube::Vienna>,
+L<Map::Tube::Warsaw>,
+L<Map::Tube::Yekaterinburg>.
 
 =head1 REPOSITORY
 
