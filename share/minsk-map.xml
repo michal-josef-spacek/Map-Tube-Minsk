@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- https://be.wikipedia.org/wiki/Мінскі_метрапалітэн -->
 <tube name="Мінскі метрапалітэн">
-  <!-- https://be.wikipedia.org/wiki/Мінскі_метрапалітэн -->
+  <lines>
+    <line id="1" name="Маскоўская_лінія" color="blue"/>
+    <line id="2" name="Аўтазаводская_лінія" color="red"/>
+  </lines>
   <stations>
     <station id="КАСТРЫЧНІЦКАЯ" name="Кастрычніцкая" line="Маскоўская_лінія" link="A08,A10,B07,B09"/>
 
