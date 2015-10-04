@@ -123,7 +123,7 @@ For more information about Minsk imetro map, click L<here|https://en.wikipedia.o
  print "Route: ".encode_utf8($route)."\n";
 
  # Output:
- # Route: Уручча (Маскоўская_лінія), Барысаўскі тракт (Маскоўская_лінія), Усход (Маскоўская_лінія)
+ # Route: Уручча (Маскоўская лінія), Барысаўскі тракт (Маскоўская лінія), Усход (Маскоўская лінія)
 
 =head1 EXAMPLE2
 
