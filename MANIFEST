@@ -28,8 +28,10 @@ SIGNATURE
 t/Map-Tube-Minsk/01-use.t
 t/Map-Tube-Minsk/02-version.t
 t/Map-Tube-Minsk/03-map.t
-t/Map-Tube-Minsk/04-get_shortest_route.t
-t/Map-Tube-Minsk/05-name.t
-t/Map-Tube-Minsk/06-xml.t
+t/Map-Tube-Minsk/04-get_node_by_id.t
+t/Map-Tube-Minsk/05-get_node_by_name.t
+t/Map-Tube-Minsk/06-get_shortest_route.t
+t/Map-Tube-Minsk/07-name.t
+t/Map-Tube-Minsk/08-xml.t
 xt/Map-Tube-Minsk/01-pod_coverage.t
 xt/Map-Tube-Minsk/02-pod.t
