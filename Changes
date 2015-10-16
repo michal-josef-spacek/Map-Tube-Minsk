@@ -1,4 +1,5 @@
 0.05
+ - Improve description for get_lines() in doc.
  - Update to Map::Tube 3.06.
 
 0.04 2015-10-07T13:01:18+02:00
