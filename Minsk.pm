@@ -299,13 +299,13 @@ L<https://github.com/tupinek/Map-Tube-Minsk>
 
 =head1 AUTHOR
 
-Michal Špaček L<mailto:skim@cpan.org>
+Michal Josef Špaček L<mailto:skim@cpan.org>
 
 L<http://skim.cz>
 
 =head1 LICENSE AND COPYRIGHT
 
- © 2014-2015 Michal Špaček
+ © 2014-2015 Michal Josef Špaček
  Artistic License
  BSD 2-Clause License
 
