@@ -3,6 +3,7 @@
  - Add test for ok_map_functions().
  - Fix Makefile.PL for new version of Perl and no default »use lib '.'«.
  - Implement station order.
+ - Improve LICENSE AND COPYRIGHT section in doc.
  - Improve SYNOPSIS section in doc.
  - Rewrite XML map to new version with line IDs.
  - Rewrite XML map to new version without junctions.
