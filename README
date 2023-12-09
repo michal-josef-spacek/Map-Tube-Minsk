@@ -67,11 +67,9 @@ METHODS
              Returns string with XML.
 
 EXAMPLE1
-     # Pragmas.
      use strict;
      use warnings;
 
-     # Modules.
      use Encode qw(decode_utf8 encode_utf8);
      use Map::Tube::Minsk;
 
@@ -88,11 +86,9 @@ EXAMPLE1
      # Route: Уручча (Маскоўская лінія), Барысаўскі тракт (Маскоўская лінія), Усход (Маскоўская лінія)
 
 EXAMPLE2
-     # Pragmas.
      use strict;
      use warnings;
 
-     # Modules.
      use Map::Tube::Minsk;
 
      # Object.
@@ -108,11 +104,9 @@ EXAMPLE2
      # XML file: .*/minsk-map.xml
 
 EXAMPLE3
-     # Pragmas.
      use strict;
      use warnings;
 
-     # Modules.
      use Map::Tube::GraphViz;
      use Map::Tube::GraphViz::Utils qw(node_color_without_label);
      use Map::Tube::Minsk;
@@ -137,11 +131,9 @@ EXAMPLE3
      # -rw-r--r-- 1 skim skim 85988 Jan  4 11:32 Minsk.png
 
 EXAMPLE4
-     # Pragmas.
      use strict;
      use warnings;
 
-     # Modules.
      use Encode qw(encode_utf8);
      use Map::Tube::Minsk;
 
@@ -159,11 +151,9 @@ EXAMPLE4
      # Маскоўская лінія
 
 EXAMPLE5
-     # Pragmas.
      use strict;
      use warnings;
 
-     # Modules.
      use Encode qw(decode_utf8 encode_utf8);
      use Map::Tube::Minsk;
 
