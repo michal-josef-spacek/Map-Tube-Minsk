@@ -8,7 +8,7 @@
  - Update Module::Install to 1.18 version.
  - Update author name.
  - Update copyright years to 2017.
- - Update to Map::Tube 3.41.
+ - Update to Map::Tube 3.62.
 
 0.05 2015-10-16T12:07:20+02:00
  - Improve description for get_lines() in doc.
