@@ -5,6 +5,7 @@
  - Implement station order.
  - Improve LICENSE AND COPYRIGHT section in doc.
  - Improve SYNOPSIS section in doc.
+ - Rename example files to better names.
  - Rewrite XML map to new version with line IDs.
  - Rewrite XML map to new version without junctions.
  - Rewrite doc to use of =head2.

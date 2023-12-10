@@ -145,6 +145,8 @@ Returns string with XML.
 
 =head1 EXAMPLE1
 
+=for comment filename=print_minsk_route.pl
+
  use strict;
  use warnings;
 
@@ -165,6 +167,8 @@ Returns string with XML.
 
 =head1 EXAMPLE2
 
+=for comment filename=print_minsk_def_xml_file.pl
+
  use strict;
  use warnings;
 
@@ -183,6 +187,8 @@ Returns string with XML.
  # XML file: .*/minsk-map.xml
 
 =head1 EXAMPLE3
+
+=for comment filename=print_minsk_image.pl
 
  use strict;
  use warnings;
@@ -220,6 +226,8 @@ Returns string with XML.
 
 =head1 EXAMPLE4
 
+=for comment filename=print_minsk_lines.pl
+
  use strict;
  use warnings;
 
@@ -240,6 +248,8 @@ Returns string with XML.
  # Маскоўская лінія
 
 =head1 EXAMPLE5
+
+=for comment filename=print_minsk_line_stations.pl
 
  use strict;
  use warnings;
