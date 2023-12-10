@@ -218,8 +218,8 @@ Returns string with XML.
 
 =begin html
 
-<a href="https://raw.githubusercontent.com/tupinek/Map-Tube-Minsk/master/images/ex3.png">
-  <img src="https://raw.githubusercontent.com/tupinek/Map-Tube-Minsk/master/images/ex3.png" alt="Pražské metro" width="300px" height="300px" />
+<a href="https://raw.githubusercontent.com/tupinek/Map-Tube-Minsk/master/images/Minsk.png">
+  <img src="https://raw.githubusercontent.com/tupinek/Map-Tube-Minsk/master/images/Minsk.png" alt="Мінскі метрапалітэн" width="300px" height="300px" />
 </a>
 
 =end html

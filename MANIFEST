@@ -4,7 +4,7 @@ examples/print_minsk_image.pl
 examples/print_minsk_line_stations.pl
 examples/print_minsk_lines.pl
 examples/print_minsk_route.pl
-images/ex3.png
+images/Minsk.png
 inc/Module/Install.pm
 inc/Module/Install/AuthorRequires.pm
 inc/Module/Install/AuthorTests.pm
