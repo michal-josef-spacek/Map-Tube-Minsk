@@ -1,6 +1,7 @@
 0.06
  - Add EXAMPLE5 section to doc.
  - Add test for ok_map_functions().
+ - Add new line to map.
  - Fix image in doc.
  - Fix Makefile.PL for new version of Perl and no default »use lib '.'«.
  - Implement station order.
