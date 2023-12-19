@@ -218,8 +218,8 @@ Returns string with XML.
 
 =begin html
 
-<a href="https://raw.githubusercontent.com/tupinek/Map-Tube-Minsk/master/images/Minsk.png">
-  <img src="https://raw.githubusercontent.com/tupinek/Map-Tube-Minsk/master/images/Minsk.png" alt="Мінскі метрапалітэн" width="300px" height="300px" />
+<a href="https://raw.githubusercontent.com/michal-josef-spacek/Map-Tube-Minsk/master/images/Minsk.png">
+  <img src="https://raw.githubusercontent.com/michal-josef-spacek/Map-Tube-Minsk/master/images/Minsk.png" alt="Мінскі метрапалітэн" width="300px" height="300px" />
 </a>
 
 =end html
@@ -323,7 +323,7 @@ Install the Map::Tube concrete metro modules.
 
 =head1 REPOSITORY
 
-L<https://github.com/tupinek/Map-Tube-Minsk>
+L<https://github.com/michal-josef-spacek/Map-Tube-Minsk>
 
 =head1 AUTHOR
 
