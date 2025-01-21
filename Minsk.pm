@@ -214,7 +214,7 @@ Returns string with XML.
  system "ls -l Minsk.png";
 
  # Output like:
- # -rw-r--r-- 1 skim skim 85988 Jan  4 11:32 Minsk.png
+ # -rw-r--r-- 1 skim skim 94891 21. led 18.04 Minsk.png
 
 =begin html
 
