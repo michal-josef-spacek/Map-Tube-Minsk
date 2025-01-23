@@ -46,6 +46,9 @@
     <station id="C01" name="Юбілейная плошча" line="3:1" link="C02" other_links="Tunnel:B06"/>
     <station id="C02" name="Плошча Францішка Багушэвіча" line="3:2" link="C01,C03"/>
     <station id="C03" name="Вакзальная" line="3:3" link="C02,C04" other_links="Tunnel:A10"/>
-    <station id="C04" name="Кавальская Слабада" line="3:4" link="C03"/>
+    <station id="C04" name="Кавальская Слабада" line="3:4" link="C03,C05"/>
+    <station id="C05" name="Аэрадромная" line="3:5" link="C04,C06"/>
+    <station id="C06" name="Немаршанскі Сад" line="3:6" link="C05,C07"/>
+    <station id="C07" name="Слуцкі Гасцінец" line="3:7" link="C06"/>
   </stations>
 </tube>
